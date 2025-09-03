@@ -1,0 +1,16 @@
+streamlit
+groq
+langgraph
+langchain
+langchain-groq
+numpy
+plotly
+PyPDF2
+python-docx
+requests
+nltk
+scikit-learn
+textblob
+SpeechRecognition
+pydub
+python-dotenv
